@@ -37,7 +37,7 @@ plugins:
 mathjax:
   enable: true             # MathJax equations, e.g. true, false (default)
   combo: "tex-svg"         # "tex-svg" (default), "tex-mml-chtml", etc.
-  tags: "ams"              # "none", "ams" (default), "all"
+  tags: "all"              # "none", "ams" (default), "all"
 
 
 # Exclude from processing.
