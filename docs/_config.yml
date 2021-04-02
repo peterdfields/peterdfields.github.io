@@ -21,8 +21,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Peter D. Fields'
-description:	       'with a cool subheading'
-author:              'You!'
+description:	       'Academia, Research, and whatnot'
+author:              ''
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
